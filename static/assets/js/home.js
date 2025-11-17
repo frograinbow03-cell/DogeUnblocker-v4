@@ -37,8 +37,8 @@ setInterval(updateClock, 1000);
 
 
 const options = [
-    "Right-Click to access more features",
-    "Set a custom background in settings.",
+    "Tobias smells like feet",
+    "Gauthier smells like feet",
     "Tab Cloaking is highly recommended",
     "About:Blank Cloak is highly recommended",
     "Finally, an actual site unblocker that works fast!",
@@ -104,4 +104,5 @@ window.onload = function() {
       console.error('Iframe not found on the page.');
     }
 };
+
 */
